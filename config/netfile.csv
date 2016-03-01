@@ -1,0 +1,2 @@
+#linkname, node1, node2, link rate (Mbps), Link delay (ms), Link buffer (kb)
+L1,H1,H2,10,10,64

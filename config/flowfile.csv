@@ -1,0 +1,2 @@
+# flow name, node_src, node_dest, data amount (kB), flow start (s)
+F1,H1,H2,20480,1.0
